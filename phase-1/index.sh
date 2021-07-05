@@ -1,0 +1,1 @@
+python3 2019201067/wiki_indexing.py $1 $2 $3
